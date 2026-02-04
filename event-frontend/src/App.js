@@ -14,7 +14,7 @@ import EventDetailsPage from './pages/EventDetailsPage';
 import ClubDetailsPage from './pages/ClubDetailsPage';
 import ClubsPage from './pages/ClubsPage';
 
-const clientId = 'YOUR GOOGLE CLIENT ID';
+const clientId = '361933842826-brilkrt4sknm1m2fpho0fue8pq658grj.apps.googleusercontent.com';
 
 function App() {
   return (
